@@ -53,3 +53,4 @@ Made with ❤️ by Aditya Nimje while learning Web Development.
 
 go and check it out at :
 
+https://adityanimje012.github.io/Simple-Calculator/
